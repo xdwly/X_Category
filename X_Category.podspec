@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "X_Category"
-  s.version      = "5"
+  s.version      = "6"
   s.summary      = "X_Category."
 
   # This description is used to generate tags and improve search results.
